@@ -1,0 +1,38 @@
+[
+    {
+        "timestamp": "2026-05-21 11:12:50",
+        "databases": {
+            "allied_payroll": 204.95,
+            "cisco_sms": 20.5,
+            "devices_apps_tracker": 200.41000000000003,
+            "hrwl": 147.26999999999998,
+            "hrwltesting": 264.96999999999997,
+            "payrollbali": 2.54,
+            "qantas_wine": 1.57,
+            "rottnest": 2026.72,
+            "scrap_expertflyer": 512.11,
+            "scrap_sunnyportal": 1.48,
+            "synway_sms": 0.33,
+            "trackitlive": 49633.979999999996,
+            "trackitwarehouselive": 12440.83
+        }
+    },
+    {
+        "timestamp": "2026-05-27 11:06:06",
+        "databases": {
+            "allied_payroll": 205.96446991,
+            "cisco_sms": 22.59375,
+            "devices_apps_tracker": 200.40625,
+            "hrwl": 147.265625,
+            "hrwltesting": 264.96875,
+            "payrollbali": 2.53125,
+            "qantas_wine": 1.5625,
+            "rottnest": 2026.71875,
+            "scrap_expertflyer": 512.078125,
+            "scrap_sunnyportal": 1.46875,
+            "synway_sms": 0.328125,
+            "trackitlive": 50657.26480103,
+            "trackitwarehouselive": 12440.90644073
+        }
+    }
+]
